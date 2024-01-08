@@ -39,10 +39,9 @@
 - [👥 社区与生态](#社区与生态)
 - [📜 声明、协议、引用](#声明协议引用)
 
-# 更新
-[2023.12.29] 🎉🎉🎉 我们发布了 **[Baichuan2-13B-Chat v2](https://huggingface.co/baichuan-inc/Baichuan2-13B-Chat/tree/v2.0)** 版本。其中：
-- 大幅提升了模型的综合能力，特别是数学和逻辑推理、复杂指令跟随能力。
-- 模型处理长度从 4096 提升 至8192 。
+# This Fork updata
+Add app.py to create baichuan api ,and start the code
+Then we support the QA_achieve.py,CheckSim.py,Similar_Question which invoke the api to request the service.
 
 # 模型介绍
 
